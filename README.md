@@ -1,4 +1,4 @@
-![logo](https://github.com/swairariaz/swairariaz/blob/main/banner.png)
+![logo](https://github.com/swairariaz/swairariaz/blob/main/banner(1).png)
 <h1 align="center">Hi 👋, I'm Swaira Riaz</h1>
 <h3 align="center">A passionate Computer System Engineer from Pakistan.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swairariaz&label=Profile%20views&color=0e75b6&style=flat" alt="swairariaz" /> </p>
